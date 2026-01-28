@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SkillBuilder1 {
+public class BasicInput {
     public static void main(String[] args) {
         int userInt;
         double userDouble;
